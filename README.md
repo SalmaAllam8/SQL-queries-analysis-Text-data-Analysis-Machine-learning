@@ -1,5 +1,10 @@
 # SQL-queries-analysis-Text-data-Analysis-Machine-learning
 
+## Data info
+
+<img width="947" height="227" alt="image" src="https://github.com/user-attachments/assets/2a3820ae-d289-4f56-a503-6bec82d6b67a" />
+
+
 ## Citation
 
 @article{zhongSeq2SQL2017,
