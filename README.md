@@ -1,6 +1,6 @@
 # SQL-queries-analysis-Text-data-Analysis-Machine-learning
 
-##Citation
+## Citation
 
 @article{zhongSeq2SQL2017,
   author    = {Victor Zhong and
